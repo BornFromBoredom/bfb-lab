@@ -11,6 +11,7 @@ public class AditionalTaskInfo {
         this.userEmail = userEmail;
     }
 
+
     public long getUserId() {
         return userId;
     }
